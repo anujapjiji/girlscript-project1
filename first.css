@@ -1,0 +1,23 @@
+
+.top{
+    background-color:#e4f9f5;
+}
+body{
+    text-align:center;
+}
+h1{
+    font-family: 'Short Stack', cursive;
+    font-size: 50px;
+}
+p{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+.profilepic{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 475px;
+    
+    
+}
